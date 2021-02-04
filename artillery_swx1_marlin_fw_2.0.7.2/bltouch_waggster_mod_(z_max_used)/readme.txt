@@ -1,0 +1,1 @@
+Thanks to https://www.youtube.com/watch?v=-8FKP2uTFQ4 for bltouch support and cabling guide
